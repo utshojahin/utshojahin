@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/jahinutsho">
-  <img src="https://drive.google.com/file/d/1LOFuDF_D8ZsOTcnepHm3WSWq_4qSqTtK/view?usp=sharing" width="100%" alt="Jahin Utsho animated banner"/>
+  <img src="https://github.com/utshojahin/utshojahin/blob/main/Gemini_Generated_Image_jaxhsujaxhsujaxh.jpeg?raw=true" width="100%" alt="Jahin Utsho animated banner"/>
 </a>
 
 <br/>
